@@ -4,6 +4,9 @@ This repository contains example scripts illustrating "best-practices" for fitti
 ### Article citation:
 Burnett AC, Anderson J, Davidson KD, Ely KS, Lamour J, Li Q, Morrison BD, Yang D, Rogers A, Serbin SP (2020) A best-practice guide to predicting plant traits from leaf-level hyperspectral data using partial least squares regression. Journal of Experimental Botany. In Review.
 
+### Source code citation:
+[![DOI](https://zenodo.org/badge/222699149.svg)](https://zenodo.org/badge/latestdoi/222699149)
+
 ### EcoSML
 https://ecosml.org/package/github/TESTgroup-BNL/PLSR_for_plant_trait_prediction
 
@@ -38,7 +41,7 @@ ggplot2 (>= 3.3.2), remotes (>= 2.2.0), devtools (>= 2.3.1), readr (>= 1.3.1), R
 Target variable: SLA <br>
 EcoSIS URL: https://ecosis.org/package/leaf-reflectance-plant-functional-gradient-ifgg-kit <br>
 EcoSIS ID: 3cf6b27e-d80e-4bc7-b214-c95506e46daa <br>
-Rpubs example output: https://rpubs.com/sserbin/665543
+Rpubs example output: https://rpubs.com/sserbin/705140
 
 2) Fresh Leaf Spectra to Estimate LMA over NEON domains in eastern United States <br>
 Target variable: LMA <br>
